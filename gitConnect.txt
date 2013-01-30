@@ -1,3 +1,0 @@
-git clone ssh://azhabura@172.22.194.121:/Volumes/SafeRAID/OGL/SDL_OGL.git
-
-git clone ssh://azhabura@172.22.194.121:/Volumes/SafeRAID/OGL/SDLRedBook1-7.git
