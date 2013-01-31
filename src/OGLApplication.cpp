@@ -10,9 +10,9 @@
 // if BPP is 0, it will be set to maximum possible
 #define SURFACE_BPP		24
 
-#define INIT_W		500
-#define INIT_H		500
-#define INIT_LESSON		26
+#define INIT_W		250
+#define INIT_H		250
+#define INIT_LESSON		0
 
 OGL_Application::OGL_Application()
 :	m_surface (NULL)
